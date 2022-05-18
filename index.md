@@ -1,5 +1,3 @@
-# Programas de Estudo
-
 A Ilum - Escola de Ciência, instituição de ensino superior vinculada ao Centro Nacional de Pesquisa em Energia e Materiais (CNPEM), iniciou suas atividades com sua primeira turma no ano de 2022.
 
 Sua proposta inovadora para a formação de cientistas é baseada no método “Problem Based Learning” (PBL) ou “Aprendizagem Baseada em Problemas”, que consiste basicamente em garantir autonomia para o estudante conforme ele alia teoria e prática para resolver questões propostas pelos professores, que nesse contexto assumem papel de orientadores.
