@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 [Programas](./programas.md)
 
 A Ilum - Escola de Ciência, instituição de ensino superior vinculada ao Centro Nacional de Pesquisa em Energia e Materiais (CNPEM), iniciou suas atividades com sua primeira turma no ano de 2022.
