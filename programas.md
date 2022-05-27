@@ -3,11 +3,10 @@
 <ul>
 {% for dado in site.data.dados %}
   <li>
-    {{ dados.name }}
-    
-    {{ dados.date }}
-    
-    {{ dados.link }}
+    <span>{{ dados.name }} - {{ dados.date }}</span>
+    <a href="{{ dados.link }}">
+      Link
+    </a>
   </li>
 {% endfor %}
 </ul>
