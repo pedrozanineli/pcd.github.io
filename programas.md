@@ -4,7 +4,7 @@
 
 <div style="border:1px;">
   {{ dado.name }} - {{ dado.date }}
-  <br><a href="{{ dado.link }}">Link</a><br>
+  <br><a href="{{ dado.link }}">Link</a><br><br>
 </div>
 
 {% endfor %}
