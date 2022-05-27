@@ -2,7 +2,7 @@
 
 {% for dado in site.data.dados %}
 
-{{ dados.name }} - {{ dados.date }}
-<a href="{{ dados.link }}">Link</a>
+{{ dado.name }} - {{ dado.date }}
+<a href="{{ dado.link }}">Link</a>
 
 {% endfor %}
