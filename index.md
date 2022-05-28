@@ -10,11 +10,11 @@ Sua proposta inovadora para a formação de cientistas é baseada no método “
 
 Nesse sentido, o presente site resulta do projeto construído na disciplina de Práticas em Ciência de Dados. Dentre diversas opções, o grupo optou por realizar um “web scraping” em busca de informações sobre oportunidades de estágio, bolsas de estudo, programas de verão, programas de “work and study” e demais experiências, nacionais e internacionais, que agreguem algo positivo ao desenvolvimento acadêmico.
 
-Aqui, reunimos informações, como local de realização, instituição a qual está vinculada, possíveis gastos financeiros e outros dados importantes para um universitário em busca de atividades extracurriculares. [^1] [^2]
+Aqui, reunimos informações importantes para um universitário em busca de atividades extracurriculares. [^1] [^2]
 
 Trabalho desenvolvido por Artur H. Kimura, Débora V. P. Chaves, Pedro T. Ferreira, Pedro H. M. Zanineli.
 
 ---
 
-[^1]: Referência 1
-[^2]: Referência 2
+[^1]: Feedparser
+[^2]: PyGithub
