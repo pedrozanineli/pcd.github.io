@@ -1,9 +1,11 @@
 <div align="center">
-  <h2>Projeto Final de Práticas em Ciências de Dados</h2>
+  <h3>Projeto Final de Práticas em Ciências de Dados</h3>
   
   Desenvolvimento de Web Scraping em Python de estágios, bolsas de estudo, programas de verão, programas de “work and study” para produção de um site
 
 </div>
+
+---
 
 A Ilum - Escola de Ciência, instituição de ensino superior vinculada ao Centro Nacional de Pesquisa em Energia e Materiais (CNPEM), iniciou suas atividades com sua primeira turma no ano de 2022.
 
