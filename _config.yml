@@ -5,3 +5,5 @@ theme: jekyll-theme-minimal
 algolia:
   application_id: VTJFHAS4FV
   index_name:     algolia
+
+exclude: [vendor]
