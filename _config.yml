@@ -1,3 +1,9 @@
 title: Programas de Estudo
 description: Projeto final da matéria de Práticas em Ciência de Dados
 theme: jekyll-theme-minimal
+logo: "logo.jpeg"
+
+navbar-links:
+  Programas: "programas"
+
+author: Artur, Débora, Pedros
