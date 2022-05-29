@@ -1,3 +1,7 @@
 title: Programas de Estudo
 description: Projeto final da matéria de Práticas em Ciência de Dados
 theme: jekyll-theme-minimal
+
+algolia:
+  application_id: VTJFHAS4FV
+  index_name:     algolia
