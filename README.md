@@ -7,6 +7,10 @@
 
 ---
 
+No presente repositório, o arquivo `projeto-final.ipynb` é uma docstring do projeto e do desenvolvimento do *web scrapping*,ao passo de que `index.md` e `programas.md` fazem parte da construção do site. Por fim, os arquivos `config.yml` e o diretório `_data` estão relacionados com a configuração e dados das páginas, respectivamente. 
+
+---
+
 A Ilum - Escola de Ciência, instituição de ensino superior vinculada ao Centro Nacional de Pesquisa em Energia e Materiais (CNPEM), iniciou suas atividades com sua primeira turma no ano de 2022.
 
 Sua proposta inovadora para a formação de cientistas é baseada no método “Problem Based Learning” (PBL) ou “Aprendizagem Baseada em Problemas”, que consiste basicamente em garantir autonomia para o estudante conforme ele alia teoria e prática para resolver questões propostas pelos professores, que nesse contexto assumem papel de orientadores.
