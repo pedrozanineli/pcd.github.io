@@ -8,7 +8,6 @@
       {{ dado.date }} • <a href="{{ dado.link }}" target="_blank">Link</a>
     </div>
   </div>
-  <br>
 {% endfor %}
 
 <br>
