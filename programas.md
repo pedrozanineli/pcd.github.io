@@ -2,9 +2,11 @@
 
 {% for dado in site.data.dados %}
 
-  <div style="border: 1px solid green;">
-    {{ dado.name }} • {{ dado.date }} • <a href="{{ dado.link }}" target="_blank">Link</a><br>
+  <div style="border: 1px solid black;border-radius: 10px;">
+    {{ dado.name }} • {{ dado.date }} • <a href="{{ dado.link }}" target="_blank">Link</a>
   </div>
+  
+  <br>
 
 {% endfor %}
 
