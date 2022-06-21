@@ -1,3 +1,5 @@
+![logo ilum](https://github.com/pedrozanineli/pcd.github.io/blob/main/logo1.png)
+
 <h3>Projeto Final de Práticas em Ciências de Dados</h3>
   
 Desenvolvimento de Web Scraping em Python de estágios, bolsas de estudo, programas de verão, programas de “work and study” para produção de um site
