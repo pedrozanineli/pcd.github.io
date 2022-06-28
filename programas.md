@@ -12,4 +12,4 @@ Abaixo, são listados os programas que foram encontradas pelo algoritmo:
   </div>
 {% endfor %}
 
-![shrek chique](sheras.jpg)
+![shrek chique](segredo/sheras.jpg)
