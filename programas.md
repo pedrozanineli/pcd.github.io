@@ -12,4 +12,4 @@ Abaixo, são listados os programas que foram encontradas pelo algoritmo:
   </div>
 {% endfor %}
 
-![shrek chique](https://github.com/pedrozanineli/pcd.github.io/blob/main/sheras.jpg)
+![shrek chique](sheras.jpg)
